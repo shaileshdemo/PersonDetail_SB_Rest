@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.persondetail.sb.rest.api.PersonDetailSbRestApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.59 s - in com.persondetail.sb.rest.api.PersonDetailSbRestApplicationTests
